@@ -1,0 +1,187 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Pdf
+</name>
+</assembly>
+<members>
+<member name="P:Pdf.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Pdf.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Pdf.My.Resources.Resources._512px_Underline_font_awesome_svg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Pdf.My.Resources.Resources._default">
+	<summary>
+  Looks up a localized string similar to Youtube -&gt; https://www.youtube.com/channel/UCZr2VGmXdJ-yGLUZztCVFGw
+
+Facebook -&gt; https://www.facebook.com/groups/AToZForLearningProgramming
+
+Twitter -&gt; https://twitter.com/SadikFattah
+
+Plus -&gt; https://plus.google.com/110268382009035036954
+
+Blogger -&gt; http://www.guercif.cf/.
+</summary>
+</member><member name="P:Pdf.My.Resources.Resources.align_justify_512">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Pdf.My.Resources.Resources.ceenter">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Pdf.My.Resources.Resources.Cocking">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:Pdf.My.Resources.Resources.Cyrillic_V">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Pdf.My.Resources.Resources.html">
+	<summary>
+  Looks up a localized string similar to &lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;my project&lt;/title&gt; 
+	&lt;style tyle="text/css"&gt;
+	*{
+padding: 0px;
+margin: 0px;
+}
+	&lt;/style&gt;
+   &lt;/head&gt;
+ &lt;body&gt;
+ &lt;p&gt; salam alikom&lt;/p&gt;
+ &lt;/body&gt;
+&lt;/html&gt;.
+</summary>
+</member><member name="P:Pdf.My.Resources.Resources.internet_html">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Pdf.My.Resources.Resources.Internet_web_browser">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Pdf.My.Resources.Resources.itextsharp">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="P:Pdf.My.Resources.Resources.itextsharp_pdfa">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="P:Pdf.My.Resources.Resources.itextsharp_xtra">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="P:Pdf.My.Resources.Resources.js">
+	<summary>
+  Looks up a localized string similar to console.log "Hello Welcome to Tutorials point".
+</summary>
+</member><member name="P:Pdf.My.Resources.Resources.left_align">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Pdf.My.Resources.Resources.lua">
+	<summary>
+  Looks up a localized string similar to #!/usr/local/bin/lua
+
+print("Hello World!").
+</summary>
+</member><member name="P:Pdf.My.Resources.Resources.pdf_A">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Pdf.My.Resources.Resources.php">
+	<summary>
+  Looks up a localized string similar to &lt;?PHP
+
+
+
+?&gt;.
+</summary>
+</member><member name="P:Pdf.My.Resources.Resources.right_align">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Pdf.My.Resources.Resources.sharp">
+	<summary>
+  Looks up a localized string similar to   using System;
+
+   Namespace HelloWorldApplication\
+
+{
+    
+    Class HelloWorld
+
+{
+    
+    static void Main(string[] args)
+
+{
+    
+     Console.WriteLine('Hello World');
+
+     Console.ReadKey();
+
+}
+
+}
+
+}.
+</summary>
+</member><member name="P:Pdf.My.Resources.Resources.souligner">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Pdf.My.Resources.Resources.sql">
+	<summary>
+  Looks up a localized string similar to [root@host]# mysqladmin -u root -p create TUTORIALS
+Enter password:******.
+</summary>
+</member><member name="P:Pdf.My.Resources.Resources.text_italic_xxl">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Pdf.My.Resources.Resources.vb">
+	<summary>
+  Looks up a localized string similar to Imports System
+Module Module1
+   'This program will display Hello World 
+   Sub Main()
+      Console.WriteLine("Hello World")
+      Console.ReadKey()
+   End Sub
+End Module.
+</summary>
+</member><member name="P:Pdf.My.Resources.Resources.xml">
+	<summary>
+  Looks up a localized string similar to &lt;?xml version="1.0"?&gt;
+&lt;contact-info&gt;
+&lt;name&gt;Tanmay Patil&lt;/name&gt;
+&lt;company&gt;TutorialsPoint&lt;/company&gt;
+&lt;phone&gt;(011) 123-4567&lt;/phone&gt;
+&lt;/contact-info&gt;.
+</summary>
+</member><member name="P:Pdf.My.Resources.Resources.yellow_pdf_16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="T:Pdf.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

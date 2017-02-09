@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>my project</title> 
+	<style tyle="text/css">
+	*{
+padding: 0px;
+margin: 0px;
+}
+	</style>
+   </head>
+ <body>
+ <p> salam alikom</p>
+ </body>
+</html>

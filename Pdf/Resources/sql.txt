@@ -1,0 +1,2 @@
+[root@host]# mysqladmin -u root -p create TUTORIALS
+Enter password:******
